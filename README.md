@@ -1,3 +1,4 @@
+# SpecWorth
 **Project Description:**
 <br>The Laptop Price Predictor is a digital tool that uses machine learning algorithms to estimate the market price of laptops based on various features such as brand, specifications, condition, and market trends. It helps buyers and sellers make informed decisions by providing accurate and dynamic price predictions.
 
@@ -21,3 +22,9 @@
 - Reduction in price negotiation time and effort.
 - Greater market transparency and user confidence.
 - Insights into market trends and laptop value factors.
+
+**Team Members:**
+<br>2410030313 - Polisetti Bharath
+<br>2410030462 - Thakkallapally Nishanth
+<br>2410030419 - Sravanam Thanveesh
+<br>2410030052 - Guddeti Chandrakanth
